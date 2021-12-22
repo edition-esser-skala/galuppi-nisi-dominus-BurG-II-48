@@ -1,17 +1,18 @@
-composer: Galuppi, Baldassare
+composer:
+  last: Galuppi
+  first: Baldassare
 title: Nisi Dominus
 id: BurG II/48
 genre: psalm
-scoring: 2 S, A (solo), S, A, T, B (coro), 4 vl, vla, b, org
+scoring: 2 S, A (solo), S, A, T, B (coro), 2 vl solo, 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
+  B1:
     siglum: D-Dl
     shelfmark: Mus.2973-D-38
-    type: manuscript copy
     date: 1750–1764
     rism: 212006098
-    url: http://digital.slub-dresden.de/id426601572
-github: galuppi-nisi-dominus-BurG-II-48
+    url: https://digital.slub-dresden.de/id426601572
+    license: public domain
+    principal: true
 imslp: Nisi_Dominus_in_C_minor%2C_B.II.48_(Galuppi%2C_Baldassa
-notes:
-
